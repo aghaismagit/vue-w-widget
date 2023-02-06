@@ -1,10 +1,10 @@
  Weather Widget.
 
 <br/>
-![gif](https://user-images.githubusercontent.com/49817117/217030701-7b9bb60b-be3d-4c96-8b89-9483c037d818.gif)
+
+![image_1675701370](https://user-images.githubusercontent.com/49817117/217030952-898a7517-2569-415c-a390-bdca333db124.gif)
 
 
-<br/>
 
 ## 📍 Demo.
 
