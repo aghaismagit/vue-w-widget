@@ -1,7 +1,7 @@
  Weather Widget.
 
 <br/>
-![image_1675701370](https://user-images.githubusercontent.com/49817117/217030540-3fc8ed08-bd5b-459e-9fee-ba6687ac1bd0.gif)
+![gif](https://user-images.githubusercontent.com/49817117/217030701-7b9bb60b-be3d-4c96-8b89-9483c037d818.gif)
 
 
 <br/>
